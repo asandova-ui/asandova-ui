@@ -53,9 +53,9 @@ This reinforced my expertise in **web development, backend APIs, database integr
 ---
 
 ### 🧱 42 Projects
-
+[`42-CURSUS`](https://github.com/asandova-ui/42-CURSUS)
 #### 🧩 Foundations (C, Unix, Algorithms)
-- [`libft`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/Libft): Core C library with reimplemented standard functions (`memcpy`, `atoi`, `strdup`, etc.).
+- [`libft`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/Libft): A foundational C library where I recreated standard C functions (e.g., `memcpy`, `atoi`, `strdup`) plus extended utilities for memory and string manipulation, list operations, and more. Deepens knowledge of data structures, memory handling, and algorithms.
 - [`printf`](https://github.com/TU_USUARIO/printf): Custom `printf` implementation with format parsing and variadic arguments.
 - [`gnl`](https://github.com/TU_USUARIO/gnl): Line-by-line file reader in C using static buffers.
 - [`push_swap`](https://github.com/TU_USUARIO/push_swap): Sorting algorithm visualizer using stack operations under tight constraints.
