@@ -30,8 +30,8 @@ As a **Telecom Engineer (UVA)**, I gained a solid foundation in **communications
 
 ## 📚 Academic & Research Projects
 
-For my **Final Degree Project**, I developed a **RESTful API with Flask** including integrated **HTML templates**.  
-This reinforced my expertise in **web development, backend APIs, database integration, and application deployment**.
+For my **Final Degree Project in Telecommunications Engineering**, I designed and implemented a prototype of the **SEPA Request-to-Pay (SRTP) scheme** as a modern alternative to traditional SEPA Direct Debit. The system reproduces the full life cycle of a digital payment request — creation, validation, decision, execution, and closure — through a **RESTful API built with Flask** and supported by **HTML templates, WebSocket notifications, and an event-driven architecture**. Data persistence was managed via **ORM models**, while modular blueprints structured the backend services. The prototype was deployed in a web environment, enabling real-time interactions between beneficiaries, payers, and payment service providers, and demonstrating the feasibility of SRTP in the digital economy.
+
 
 [`SEPA_RTP`](https://github.com/asandova-ui/SEPA_RTP)
 ---
@@ -84,21 +84,3 @@ This reinforced my expertise in **web development, backend APIs, database integr
 ### 💡 About Me  
 
 I am a curious and versatile engineer with a background in Telecommunications (UVA) and current studies at 42 Madrid. My interests span across many areas of technology, from low-level programming and operating system internals to networking, backend engineering, and distributed systems. I enjoy working with Linux environments and languages such as C, C++, Python, and Java, as well as tools like Docker and Flask, applying them to projects that range from algorithmic libraries to scalable servers. I see software as a way to understand how complex systems interact, and I am motivated by the challenge of designing solutions that are both efficient and reliable. At the moment, I am exploring advanced C++ design patterns, cloud infrastructure, and the principles of large-scale system architecture.  
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asandova-ui&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asandova-ui&layout=compact&theme=dark)
-
----
-
-<div align="center">
-<a href="https://github.com/TU_USUARIO?tab=followers">
-  <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Follow&style=social" alt="Followers" />
-</a>
-&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&style=flat" alt="Profile views" />
-</div>
