@@ -11,7 +11,8 @@ so it appears on your GitHub profile.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-sandoval-martinez)
 
-[![Email](https://img.shields.io/badge/Email-hello%40yourdomain.com-D14836?logo=gmail&logoColor=white)](alonso.sandovalmartinez@gmail.com)
+[![Email](https://img.shields.io/badge/Email-alonso.sandovalmartinez%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:alonso.sandovalmartinez@gmail.com)
+
 
 </div>
 
