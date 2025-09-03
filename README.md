@@ -61,13 +61,13 @@ This reinforced my expertise in **web development, backend APIs, database integr
 - [`push_swap`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/push_swap): Sorting algorithm challenge using two stacks (`a` and `b`) and limited operations to output the minimal sequence of moves. Covers algorithm design, error handling, and performance optimization.
 
 #### 🖼️ Graphics & Game Dev
-- [`so_long`](https://github.com/TU_USUARIO/so_long): Simple 2D game built with MiniLibX, featuring pathfinding and map parsing.
-- [`Cub3d`](https://github.com/TU_USUARIO/Cub3d): Raycasting 3D engine in C with textures, animated sprites, minimap, and mouse-controlled camera.
+- [`so_long`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/so_long): Simple 2D game built with MiniLibX, featuring pathfinding and map parsing.
+- [`Cub3d`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/cub3d): Raycasting 3D engine in C with textures, animated sprites, minimap, and mouse-controlled camera.
 
 #### 💻 Systems Programming
-- [`pipex`](https://github.com/TU_USUARIO/pipex): Shell-like pipeline manager handling redirections and `here_doc`.
-- [`philosophers`](https://github.com/TU_USUARIO/philosophers): Multithreading challenge simulating the dining philosophers problem with pthreads.
-- [`minishell`](https://github.com/TU_USUARIO/minishell): Fully functioning Unix shell with parsing, built-ins, redirections, and job control.
+- [`pipex`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/pipex): Recreates shell behavior with pipelines and redirections, including `here_doc` capabilities.
+- [`philosophers`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/philosophers): Simulates the Dining Philosophers problem using multithreading (`pthreads`) with emphasis on concurrency and resource synchronization.
+- [`minishell`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/minishell): Mini Unix shell featuring command parsing, built-ins, redirections, job control, and fork-based execution.
 
 #### 🧪 C++ Object-Oriented Programming
 - [`Cpp Modules 00–04`](https://github.com/TU_USUARIO/Cpp00-04): Basics of OOP, constructors, inheritance, and polymorphism.
