@@ -33,6 +33,7 @@ As a **Telecom Engineer (UVA)**, I gained a solid foundation in **communications
 For my **Final Degree Project**, I developed a **RESTful API with Flask** including integrated **HTML templates**.  
 This reinforced my expertise in **web development, backend APIs, database integration, and application deployment**.
 
+[`SEPA_RTP`](https://github.com/asandova-ui/SEPA_RTP)
 ---
 
 ### 🧰 Tech Stack
@@ -70,31 +71,27 @@ This reinforced my expertise in **web development, backend APIs, database integr
 - [`minishell`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/minishell): Mini Unix shell featuring command parsing, built-ins, redirections, job control, and fork-based execution.
 
 #### 🧪 C++ Object-Oriented Programming
-- [`Cpp Modules 00–04`](https://github.com/TU_USUARIO/Cpp00-04): Basics of OOP, constructors, inheritance, and polymorphism.
-- [`Cpp Modules 05–09`](https://github.com/TU_USUARIO/Cpp05-09): Advanced C++ topics: casting, exceptions, templates, STL containers.
+[`Cpp Modules`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/CPP)
+- [`Cpp Modules 00–04`]: Introduces OOP basics: constructors, canonical form, inheritance, and polymorphism.
+- [`Cpp Modules 05–09`]: Deepens C++ with casting, exceptions, templates, and standard containers like `std::vector` and `map`.
 
 #### 🌐 Networking & DevOps
-- [`webserv`](https://github.com/TU_USUARIO/webserv): HTTP/1.1 server in C++ with CGI, file uploads, custom error pages, and concurrency via `poll()`.
-- [`Inception`](https://github.com/TU_USUARIO/Inception): Docker-based project setting up NGINX, WordPress, MariaDB with TLS, secrets, and isolated containers.
+- [`ft?irc`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/ft_irc): An Internet Relay Chat (IRC) server written in C++98, fully compliant with the RFC 1459 standard. It supports multiple clients, private/public channels, operators, and real-time message broadcasting. The project emphasizes network programming, concurrency management with `select()`, and building scalable communication protocols.
+- [`Inception`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/inception): Docker-based multi-container setup using NGINX, WordPress, MariaDB, TLS, and secrets to simulate infrastructure deployment.
 
 ---
 
-### 💡 About Me
+### 💡 About Me  
 
-- 🎓 Currently studying at **42 Madrid** and holding a Telecom Engineering degree from **UVA**.  
-- ⚙️ Passionate about **systems programming, networking, backend development, and software architecture**.  
-- 🐧 Love working with **Linux, C/C++, Docker, Flask**, and building everything from simple libraries to full shells and HTTP servers.  
-- 🚀 Always curious to learn how **systems and networks work under the hood**.  
-- 🌍 Interested in **backend engineering, OS internals, and infrastructure tooling**.  
-- 📘 Currently learning **advanced C++ design patterns, distributed systems, and cloud computing**.  
+I am a curious and versatile engineer with a background in Telecommunications (UVA) and current studies at 42 Madrid. My interests span across many areas of technology, from low-level programming and operating system internals to networking, backend engineering, and distributed systems. I enjoy working with Linux environments and languages such as C, C++, Python, and Java, as well as tools like Docker and Flask, applying them to projects that range from algorithmic libraries to scalable servers. I see software as a way to understand how complex systems interact, and I am motivated by the challenge of designing solutions that are both efficient and reliable. At the moment, I am exploring advanced C++ design patterns, cloud infrastructure, and the principles of large-scale system architecture.  
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asandova-ui&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asandova-ui&layout=compact&theme=dark)
 
 ---
 
