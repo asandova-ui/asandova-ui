@@ -76,7 +76,7 @@ For my **Final Degree Project in Telecommunications Engineering**, I designed an
 - [`Cpp Modules 05–09`]: Deepens C++ with casting, exceptions, templates, and standard containers like `std::vector` and `map`.
 
 #### 🌐 Networking & DevOps
-- [`ft?irc`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/ft_irc): An Internet Relay Chat (IRC) server written in C++98, fully compliant with the RFC 1459 standard. It supports multiple clients, private/public channels, operators, and real-time message broadcasting. The project emphasizes network programming, concurrency management with `select()`, and building scalable communication protocols.
+- [`ft_irc`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/ft_irc): An Internet Relay Chat (IRC) server written in C++98, fully compliant with the RFC 1459 standard. It supports multiple clients, private/public channels, operators, and real-time message broadcasting. The project emphasizes network programming, concurrency management with `select()`, and building scalable communication protocols.
 - [`Inception`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/inception): Docker-based multi-container setup using NGINX, WordPress, MariaDB, TLS, and secrets to simulate infrastructure deployment.
 
 ---
