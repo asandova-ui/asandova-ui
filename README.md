@@ -9,7 +9,8 @@ so it appears on your GitHub profile.
 
 **42 Madrid Student · Telecom Engineer (UVA)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/alonso-sandoval-martinez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-sandoval-martinez)
+
 [![Email](https://img.shields.io/badge/Email-hello%40yourdomain.com-D14836?logo=gmail&logoColor=white)](alonso.sandovalmartinez@gmail.com)
 
 </div>
