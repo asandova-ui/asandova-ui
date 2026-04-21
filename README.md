@@ -2,7 +2,7 @@
 
 # Alonso Sandoval
 
-**Electrical & AI Engineer**
+**Electrical & AI Engineer | Co-Founder & CTO at Caudals**
 
 [![Personal Page](https://img.shields.io/badge/Personal%20Page-141413?style=flat&logo=googlechrome&logoColor=white)](https://asandova-ui.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-sandoval-martinez/)
@@ -10,15 +10,7 @@
 
 </div>
 
-## Profile
-
-I am an **electrical engineer specialized in telecommunications** and an **AI engineer** with a strong interest in **startups, technical product building, and turning ambitious ideas into real systems**.
-
-## What I Work On
-
-I work across **backend engineering, applied AI, data systems, cloud deployment, and systems integration**, with a particular focus on building products that are technically solid and operationally useful.
-
-I am currently building **Caudals**, an AI data startup, as well as an **AI-native labeling and dataset evaluation system** designed to accelerate the path from raw data to training-ready datasets.
+I’m an **electrical engineer specialized in telecommunications** and an **AI engineer** with a strong interest in **startups, product building, and turning ambitious ideas into real systems**. My work sits across **backend engineering, applied AI, data systems, cloud deployment, IoT, and systems integration**, and I’ve always enjoyed building several demanding things in parallel, including completing the full **42 Madrid common core** alongside university and startup work. Right now I’m building **Caudals**, an AI data startup, and an **AI-native labeling and dataset evaluation system** designed to speed up the path from raw data to training-ready datasets.
 
 ## Technical Focus
 
