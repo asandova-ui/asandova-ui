@@ -5,7 +5,6 @@
 **Electrical & AI Engineer building at the intersection of backend systems, applied AI, data workflows, cloud deployment, and product execution.**
 
 [![Website](https://img.shields.io/badge/Website-asandova--ui.github.io-141413?style=flat&logo=googlechrome&logoColor=white)](https://asandova-ui.github.io)
-[![Caudals](https://img.shields.io/badge/Caudals-caudals.com-d97757?style=flat&logo=safari&logoColor=white)](https://caudals.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alonso_Sandoval-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-sandoval-martinez/)
 [![Email](https://img.shields.io/badge/Email-alonso.sandovalmartinez%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alonso.sandovalmartinez@gmail.com)
 
@@ -77,6 +76,13 @@ A real connected-vehicle lab combining **LTE networking, distributed control, pe
 
 - Repository: [TallerProyectos2/TP2_red4G](https://github.com/TallerProyectos2/TP2_red4G)
 - Case study: [Portfolio entry](https://asandova-ui.github.io/projects/tp2-connected-vehicle-iot-edge-ai-lab/)
+
+### TP1 Modular FPGA, Sensor & LoRa Telemetry Platform
+
+An embedded systems project combining **custom PCB design, LarVA-based RISC-V / FPGA integration, sensor acquisition, GPS parsing, and LoRa telemetry**. Good example of multidisciplinary engineering across electronics, firmware, digital design, and communications-aware system architecture.
+
+- Repository: [asandova-ui/TP1](https://github.com/asandova-ui/TP1)
+- Case study: [Portfolio entry](https://asandova-ui.github.io/projects/tp1-modular-fpga-sensor-lora-platform/)
 
 ### SEPA Request-to-Pay Prototype
 
