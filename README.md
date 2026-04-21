@@ -5,6 +5,7 @@
 **Electrical & AI Engineer | Co-Founder & CTO at Caudals**
 
 [![Personal Page](https://img.shields.io/badge/Personal%20Page-141413?style=flat&logo=googlechrome&logoColor=white)](https://asandova-ui.github.io)
+[![Blog](https://img.shields.io/badge/Blog-F57C00?style=flat&logo=hashnode&logoColor=white)](https://asandova-ui.github.io/notes/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-sandoval-martinez/)
 [![Mail](https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alonso.sandovalmartinez@gmail.com)
 
@@ -112,17 +113,20 @@ I completed the **full 42 Madrid common core**, a project-based curriculum cente
 
 ### Highlighted projects
 
-- [**minishell**](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/minishell)  
+- [**minishell**](https://github.com/asandova-ui/42-CURSUS/tree/main/minishell)  
   A Unix shell built in C with command parsing, built-ins, pipes, redirections, environment handling, and fork-based execution. Strong exercise in systems programming and process control.
 
-- [**Cub3d**](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/cub3d)  
+- [**Cub3d**](https://github.com/asandova-ui/42-CURSUS/tree/main/cub3d)  
   A raycasting 3D engine in C with textures, minimap support, movement, and rendering logic. Good demonstration of low-level graphics, parsing, and performance-sensitive coding.
 
-- [**ft_irc**](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/ft_irc)  
+- [**ft_irc**](https://github.com/asandova-ui/42-CURSUS/tree/main/ft_irc)  
   An IRC server in C++98 implementing multi-client communication, channels, operators, and real-time messaging. Strong networking and protocol design project.
 
-- [**Inception**](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/inception)  
+- [**Inception**](https://github.com/asandova-ui/42-CURSUS/tree/main/inception)  
   A multi-container Docker environment with NGINX, WordPress, MariaDB, TLS, and service orchestration. Good infrastructure and deployment-oriented project.
+
+- [**ft_transcendence**](https://github.com/jaimeol/ft_transcendence)  
+  A full-stack 42 final project with real-time gameplay, chat, friends, tournaments, sessions, and a custom web frontend backed by Fastify, SQLite, WebSockets, and Docker-based local orchestration.
 
 ## Current Direction
 
