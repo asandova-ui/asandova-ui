@@ -1,86 +1,132 @@
-<!--
-👋 This README must go into a public repo named exactly TU_USUARIO/TU_USUARIO 
-so it appears on your GitHub profile.
--->
-
 <div align="center">
 
-# 👋 Hello, I'm **Alonso**
+# Alonso Sandoval
 
-**42 Madrid Student · Telecom Engineer (UVA)**
+**Electrical & AI Engineer building at the intersection of backend systems, applied AI, data workflows, cloud deployment, and product execution.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-sandoval-martinez)
-
-[![Email](https://img.shields.io/badge/Email-alonso.sandovalmartinez%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:alonso.sandovalmartinez@gmail.com)
-
+[![Website](https://img.shields.io/badge/Website-asandova--ui.github.io-141413?style=flat&logo=googlechrome&logoColor=white)](https://asandova-ui.github.io)
+[![Caudals](https://img.shields.io/badge/Caudals-caudals.com-d97757?style=flat&logo=safari&logoColor=white)](https://caudals.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alonso_Sandoval-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-sandoval-martinez/)
+[![Email](https://img.shields.io/badge/Email-alonso.sandovalmartinez%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alonso.sandovalmartinez@gmail.com)
 
 </div>
 
----
+## Profile
 
-## 👨‍🎓 About Me
+I build technical products where **software engineering, data quality, AI workflows, and real operational constraints** all matter at the same time.
 
-I’m always looking to **improve and expand my knowledge**.  
-I have strong skills in **systems, computer science, networking, software design, telecommunications, embedded systems, and digital signal processing**.  
+My background combines **electrical engineering, systems thinking, backend development, networking, and low-level programming** with a strong current focus on **applied AI, machine learning workflows, dataset engineering, cloud deployment, and automation-heavy product building**. I am especially interested in work that sits between **backend architecture, AI/data infrastructure, financial systems, and production-minded delivery**.
 
-At **42 Madrid**, I have worked on demanding projects that strengthened my abilities in **algorithmic thinking, teamwork, and low-level programming**.  
-As a **Telecom Engineer (UVA)**, I gained a solid foundation in **communications, network protocols, system architecture, and software development**.
+Today, that shows up in a mix of:
 
----
+- **AI-native product work** around data preparation, labeling, review, and evaluation workflows
+- **Backend and integration engineering** for APIs, event-driven flows, automation, and systems orchestration
+- **Cloud and deployment work** across Linux, Docker, VPS environments, CI/CD, and service delivery
+- **Data-intensive systems** involving dataset operations, relational data modeling, and ML-oriented pipelines
+- **Infrastructure-oriented engineering** where software needs to behave well under networking, deployment, or hardware constraints
 
-## 📚 Academic & Research Projects
+## What I Work On
 
-For my **Final Degree Project in Telecommunications Engineering**, I designed and implemented a prototype of the **SEPA Request-to-Pay (SRTP) scheme** as a modern alternative to traditional SEPA Direct Debit. The system reproduces the full life cycle of a digital payment request — creation, validation, decision, execution, and closure — through a **RESTful API built with Flask** and supported by **HTML templates, WebSocket notifications, and an event-driven architecture**. Data persistence was managed via **ORM models**, while modular blueprints structured the backend services. The prototype was deployed in a web environment, enabling real-time interactions between beneficiaries, payers, and payment service providers, and demonstrating the feasibility of SRTP in the digital economy.
+- Applied AI and machine learning systems
+- Backend services, APIs, and systems integration
+- Data engineering, dataset operations, and labeling pipelines
+- LLM-oriented workflows, evaluation, and RAG-ready data preparation
+- Cloud deployment, automation, and production-minded software delivery
+- Fintech and payment systems with strong process and data requirements
 
+## Technical Focus
 
-[`SEPA_RTP`](https://github.com/asandova-ui/SEPA_RTP)
----
+### Software / Backend
 
-### 🧰 Tech Stack
+`Python` `Java` `C` `C++` `.NET` `PL/SQL` `SQL` `REST APIs` `Flask` `FastAPI` `scripting` `automation` `systems integration` `Git` `GitHub` `Azure DevOps`
 
-<div align="center">
+### AI / ML / Data
 
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Makefile-ffffff?style=flat&logo=gnubash&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+`Applied AI` `Machine Learning` `LLMs` `NLP` `data preparation` `data preprocessing` `data labeling` `dataset engineering` `feature engineering` `data pipelines` `model evaluation` `RAG-oriented data preparation` `TensorFlow` `PyTorch` `scikit-learn` `pandas` `NumPy` `OpenCV` `experimentation workflows`
 
-</div>
+### Cloud / DevOps / Deployment
 
----
+`AWS` `DigitalOcean` `Linux` `Docker` `CI/CD` `VPS deployment` `cloud infrastructure` `backend deployment` `monitoring basics` `scalable services` `production-minded development`
 
-### 🧱 42 Projects
-[`42-CURSUS`](https://github.com/asandova-ui/42-CURSUS)
-#### 🧩 Foundations (C, Unix, Algorithms)
-- [`libft`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/Libft): A foundational C library where I recreated standard C functions (e.g., `memcpy`, `atoi`, `strdup`) plus extended utilities for memory and string manipulation, list operations, and more. Deepens knowledge of data structures, memory handling, and algorithms.
-- [`printf`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/printf): Custom implementation of `printf`, requiring complex format string parsing and management of variadic arguments. Reinforced skills in string parsing and formatting.
-- [`gnl`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/get_next_line): Function to read a line from a file descriptor, supporting multiple FDs without losing state. Highlights dynamic memory, buffer control, and I/O.
-- [`push_swap`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/push_swap): Sorting algorithm challenge using two stacks (`a` and `b`) and limited operations to output the minimal sequence of moves. Covers algorithm design, error handling, and performance optimization.
+### Databases / Data Systems
 
-#### 🖼️ Graphics & Game Dev
-- [`so_long`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/so_long): Simple 2D game built with MiniLibX, featuring pathfinding and map parsing.
-- [`Cub3d`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/cub3d): Raycasting 3D engine in C with textures, animated sprites, minimap, and mouse-controlled camera.
+`Oracle Database` `PostgreSQL` `MySQL` `SQLAlchemy` `SQLite` `relational data modeling` `query optimization` `data-intensive systems`
 
-#### 💻 Systems Programming
-- [`pipex`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/pipex): Recreates shell behavior with pipelines and redirections, including `here_doc` capabilities.
-- [`philosophers`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/philosophers): Simulates the Dining Philosophers problem using multithreading (`pthreads`) with emphasis on concurrency and resource synchronization.
-- [`minishell`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/minishell): Mini Unix shell featuring command parsing, built-ins, redirections, job control, and fork-based execution.
+### Additional Working Areas
 
-#### 🧪 C++ Object-Oriented Programming
-[`Cpp Modules`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/CPP)
-- [`Cpp Modules 00–04`]: Introduces OOP basics: constructors, canonical form, inheritance, and polymorphism.
-- [`Cpp Modules 05–09`]: Deepens C++ with casting, exceptions, templates, and standard containers like `std::vector` and `map`.
+`fintech systems` `payment systems` `API integrations` `business-process automation` `cloud-native mindset` `secure and reliable systems` `MLOps awareness` `model-serving awareness`
 
-#### 🌐 Networking & DevOps
-- [`ft_irc`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/ft_irc): An Internet Relay Chat (IRC) server written in C++98, fully compliant with the RFC 1459 standard. It supports multiple clients, private/public channels, operators, and real-time message broadcasting. The project emphasizes network programming, concurrency management with `select()`, and building scalable communication protocols.
-- [`Inception`](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/inception): Docker-based multi-container setup using NGINX, WordPress, MariaDB, TLS, and secrets to simulate infrastructure deployment.
+## Selected Projects
 
----
+### Caudals
 
-### 💡 About Me  
+**Co-Founder & CTO** of [Caudals](https://caudals.com), an AI data startup building a more credible supply layer for ML-ready datasets. The work combines **data operations, platform design, quality workflows, compliance-aware dataset handling, and product architecture**.
 
-I am a curious and versatile engineer with a background in Telecommunications (UVA) and current studies at 42 Madrid. My interests span across many areas of technology, from low-level programming and operating system internals to networking, backend engineering, and distributed systems. I enjoy working with Linux environments and languages such as C, C++, Python, and Java, as well as tools like Docker and Flask, applying them to projects that range from algorithmic libraries to scalable servers. I see software as a way to understand how complex systems interact, and I am motivated by the challenge of designing solutions that are both efficient and reliable. At the moment, I am exploring advanced C++ design patterns, cloud infrastructure, and the principles of large-scale system architecture.  
+- Website: [caudals.com](https://caudals.com)
+- Case study: [Portfolio entry](https://asandova-ui.github.io/projects/caudals-ai-data-marketplace/)
+
+### AI-Native Labeling & Dataset Evaluation System
+
+A frontier AI data-operations build focused on **automated labeling, confidence-based routing, selective human review, and dataset-level evaluation**. The goal is to compress the path from raw data to **training-ready datasets** and make AI data workflows more operationally scalable.
+
+- Case study: [Portfolio entry](https://asandova-ui.github.io/projects/ai-native-labeling-dataset-evaluation-system/)
+
+### TP2 Connected Vehicle IoT & Edge AI Lab
+
+A real connected-vehicle lab combining **LTE networking, distributed control, perception workflows, Jetson-ready inference offload, and AI-ready data capture**. Strong example of systems integration across radio, compute, control, and edge AI infrastructure.
+
+- Repository: [TallerProyectos2/TP2_red4G](https://github.com/TallerProyectos2/TP2_red4G)
+- Case study: [Portfolio entry](https://asandova-ui.github.io/projects/tp2-connected-vehicle-iot-edge-ai-lab/)
+
+### SEPA Request-to-Pay Prototype
+
+My bachelor’s final project, awarded **highest honors (10/10)**. I designed and implemented an end-to-end **SEPA Request-to-Pay** prototype with a Flask backend, event-driven lifecycle, real-time notifications, and a live web UI to model the operational flow between payer, payee, and PSPs.
+
+- Repository: [SEPA_RequestToPay](https://github.com/asandova-ui/SEPA_RequestToPay)
+- Case study: [Portfolio entry](https://asandova-ui.github.io/projects/sepa-request-to-pay-bachelors-thesis/)
+- Thesis: [PDF](https://asandova-ui.github.io/pdfs/MemoriaTFG.pdf)
+
+## 42 Madrid Common Core
+
+I completed the **full 42 Madrid common core**, a project-based curriculum centered on **low-level programming, Unix systems, concurrency, networking, debugging discipline, and autonomous delivery**.
+
+- Full repository: [42-CURSUS](https://github.com/asandova-ui/42-CURSUS)
+- Portfolio overview: [42 Madrid engineering journey](https://asandova-ui.github.io/projects/42-madrid-cursus-engineering-journey/)
+
+### Highlighted projects
+
+- [**minishell**](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/minishell)  
+  A Unix shell built in C with command parsing, built-ins, pipes, redirections, environment handling, and fork-based execution. Strong exercise in systems programming and process control.
+
+- [**Cub3d**](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/cub3d)  
+  A raycasting 3D engine in C with textures, minimap support, movement, and rendering logic. Good demonstration of low-level graphics, parsing, and performance-sensitive coding.
+
+- [**ft_irc**](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/ft_irc)  
+  An IRC server in C++98 implementing multi-client communication, channels, operators, and real-time messaging. Strong networking and protocol design project.
+
+- [**Inception**](https://github.com/asandova-ui/42-CURSUS/tree/main/42-CURSUS/inception)  
+  A multi-container Docker environment with NGINX, WordPress, MariaDB, TLS, and service orchestration. Good infrastructure and deployment-oriented project.
+
+## Current Direction
+
+Right now I am particularly focused on:
+
+- building **AI-native internal systems** for data operations and model-ready workflows
+- improving my depth in **machine learning tooling, model evaluation, and dataset infrastructure**
+- working closer to **cloud deployment, service architecture, and reliable backend delivery**
+- combining **software engineering discipline with startup execution speed**
+
+## Writing
+
+I use my personal site as a place to document technical thinking around **AI systems, agent infrastructure, startups, and data workflows**.
+
+- Blog: [Writing / Notes](https://asandova-ui.github.io/notes/)
+- Recent post: [Agents, Polymarket, and the Rise of Machine-Native Market Intelligence](https://asandova-ui.github.io/notes/agents-polymarket-and-the-rise-of-machine-native-market-intelligence/)
+- Recent post: [Why Agent Infrastructure Is Becoming the New AI Stack](https://asandova-ui.github.io/notes/why-agent-infrastructure-is-becoming-the-new-ai-stack/)
+
+## Links
+
+- Personal site: [asandova-ui.github.io](https://asandova-ui.github.io)
+- GitHub portfolio projects: [Projects](https://asandova-ui.github.io/#projects)
+- LinkedIn: [alonso-sandoval-martinez](https://www.linkedin.com/in/alonso-sandoval-martinez/)
+- Email: [alonso.sandovalmartinez@gmail.com](mailto:alonso.sandovalmartinez@gmail.com)
