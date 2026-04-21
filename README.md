@@ -37,23 +37,63 @@ Today, that shows up in a mix of:
 
 ### Software / Backend
 
-`Python` `Java` `C` `C++` `.NET` `PL/SQL` `SQL` `REST APIs` `Flask` `FastAPI` `scripting` `automation` `systems integration` `Git` `GitHub` `Azure DevOps`
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Oracle](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/plsql.html)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/products/devops)
+
+**Working areas:** REST APIs, scripting, automation, systems integration.
 
 ### AI / ML / Data
 
-`Applied AI` `Machine Learning` `LLMs` `NLP` `data preparation` `data preprocessing` `data labeling` `dataset engineering` `feature engineering` `data pipelines` `model evaluation` `RAG-oriented data preparation` `TensorFlow` `PyTorch` `scikit-learn` `pandas` `NumPy` `OpenCV` `experimentation workflows`
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![OpenAI](https://img.shields.io/badge/LLM%20Workflows-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
+
+**Working areas:** applied AI, machine learning, NLP, LLM workflows, data preparation, data preprocessing, data labeling, dataset engineering, feature engineering, data pipelines, model evaluation, RAG-oriented data preparation, experimentation workflows.
 
 ### Cloud / DevOps / Deployment
 
-`AWS` `DigitalOcean` `Linux` `Docker` `CI/CD` `VPS deployment` `cloud infrastructure` `backend deployment` `monitoring basics` `scalable services` `production-minded development`
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Nginx](https://img.shields.io/badge/Deployment-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)
+
+**Working areas:** VPS deployment, cloud infrastructure, backend deployment, monitoring basics, scalable services, production-minded development.
 
 ### Databases / Data Systems
 
-`Oracle Database` `PostgreSQL` `MySQL` `SQLAlchemy` `SQLite` `relational data modeling` `query optimization` `data-intensive systems`
+[![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+**Working areas:** relational data modeling, query optimization, data-intensive systems.
 
 ### Additional Working Areas
 
-`fintech systems` `payment systems` `API integrations` `business-process automation` `cloud-native mindset` `secure and reliable systems` `MLOps awareness` `model-serving awareness`
+[![Stripe](https://img.shields.io/badge/Payment%20Systems-635BFF?style=flat&logo=stripe&logoColor=white)](https://stripe.com/)
+[![Postman](https://img.shields.io/badge/API%20Integrations-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Apache Airflow](https://img.shields.io/badge/Automation-017CEE?style=flat&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
+[![Kubernetes](https://img.shields.io/badge/MLOps%20Awareness-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+
+**Working areas:** fintech systems, business-process automation, cloud-native mindset, secure and reliable systems, model-serving awareness.
 
 ## Selected Projects
 
