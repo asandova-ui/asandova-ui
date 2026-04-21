@@ -2,7 +2,7 @@
 
 # Alonso Sandoval
 
-**Electrical & AI Engineer building at the intersection of backend systems, applied AI, data workflows, cloud deployment, and product execution.**
+**Electrical & AI Engineer**
 
 [![Personal Page](https://img.shields.io/badge/Personal%20Page-141413?style=flat&logo=googlechrome&logoColor=white)](https://asandova-ui.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-sandoval-martinez/)
@@ -26,7 +26,7 @@ I am currently building **Caudals**, an AI data startup, as well as an **AI-nati
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Oracle](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/plsql.html)
@@ -50,8 +50,6 @@ I am currently building **Caudals**, an AI data startup, as well as an **AI-nati
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![OpenAI](https://img.shields.io/badge/LLM%20Workflows-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
 
-**Working areas:** applied AI, machine learning, NLP, LLM workflows, data preparation, data preprocessing, data labeling, dataset engineering, feature engineering, data pipelines, model evaluation, RAG-oriented data preparation, experimentation workflows.
-
 ### Cloud / DevOps / Deployment
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
@@ -61,8 +59,6 @@ I am currently building **Caudals**, an AI data startup, as well as an **AI-nati
 [![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Nginx](https://img.shields.io/badge/Deployment-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)
 
-**Working areas:** VPS deployment, cloud infrastructure, backend deployment, monitoring basics, scalable services, production-minded development.
-
 ### Databases / Data Systems
 
 [![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
@@ -71,16 +67,12 @@ I am currently building **Caudals**, an AI data startup, as well as an **AI-nati
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-**Working areas:** relational data modeling, query optimization, data-intensive systems.
-
 ### Additional Working Areas
 
 [![Stripe](https://img.shields.io/badge/Payment%20Systems-635BFF?style=flat&logo=stripe&logoColor=white)](https://stripe.com/)
 [![Postman](https://img.shields.io/badge/API%20Integrations-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Apache Airflow](https://img.shields.io/badge/Automation-017CEE?style=flat&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
 [![Kubernetes](https://img.shields.io/badge/MLOps%20Awareness-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-
-**Working areas:** fintech systems, business-process automation, cloud-native mindset, secure and reliable systems, model-serving awareness.
 
 ## Selected Projects
 
