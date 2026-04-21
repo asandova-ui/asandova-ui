@@ -12,26 +12,13 @@
 
 ## Profile
 
-I build technical products where **software engineering, data quality, AI workflows, and real operational constraints** all matter at the same time.
-
-My background combines **electrical engineering, systems thinking, backend development, networking, and low-level programming** with a strong current focus on **applied AI, machine learning workflows, dataset engineering, cloud deployment, and automation-heavy product building**. I am especially interested in work that sits between **backend architecture, AI/data infrastructure, financial systems, and production-minded delivery**.
-
-Today, that shows up in a mix of:
-
-- **AI-native product work** around data preparation, labeling, review, and evaluation workflows
-- **Backend and integration engineering** for APIs, event-driven flows, automation, and systems orchestration
-- **Cloud and deployment work** across Linux, Docker, VPS environments, CI/CD, and service delivery
-- **Data-intensive systems** involving dataset operations, relational data modeling, and ML-oriented pipelines
-- **Infrastructure-oriented engineering** where software needs to behave well under networking, deployment, or hardware constraints
+I am an **electrical engineer specialized in telecommunications** and an **AI engineer** with a strong interest in **startups, technical product building, and turning ambitious ideas into real systems**.
 
 ## What I Work On
 
-- Applied AI and machine learning systems
-- Backend services, APIs, and systems integration
-- Data engineering, dataset operations, and labeling pipelines
-- LLM-oriented workflows, evaluation, and RAG-ready data preparation
-- Cloud deployment, automation, and production-minded software delivery
-- Fintech and payment systems with strong process and data requirements
+I work across **backend engineering, applied AI, data systems, cloud deployment, and systems integration**, with a particular focus on building products that are technically solid and operationally useful.
+
+I am currently building **Caudals**, an AI data startup, as well as an **AI-native labeling and dataset evaluation system** designed to accelerate the path from raw data to training-ready datasets.
 
 ## Technical Focus
 
