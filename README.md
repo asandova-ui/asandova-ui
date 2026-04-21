@@ -4,9 +4,9 @@
 
 **Electrical & AI Engineer building at the intersection of backend systems, applied AI, data workflows, cloud deployment, and product execution.**
 
-[![Website](https://img.shields.io/badge/Website-asandova--ui.github.io-141413?style=flat&logo=googlechrome&logoColor=white)](https://asandova-ui.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alonso_Sandoval-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-sandoval-martinez/)
-[![Email](https://img.shields.io/badge/Email-alonso.sandovalmartinez%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alonso.sandovalmartinez@gmail.com)
+[![Personal Page](https://img.shields.io/badge/Personal%20Page-141413?style=flat&logo=googlechrome&logoColor=white)](https://asandova-ui.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-sandoval-martinez/)
+[![Mail](https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alonso.sandovalmartinez@gmail.com)
 
 </div>
 
