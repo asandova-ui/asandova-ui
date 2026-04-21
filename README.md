@@ -31,8 +31,6 @@ Right now I’m building [**Caudals**](https://caudals.com), an AI data startup,
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/products/devops)
 
-**Working areas:** REST APIs, scripting, automation, systems integration.
-
 ### AI / ML / Data
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
