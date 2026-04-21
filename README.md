@@ -71,38 +71,41 @@ Right now I’m building [**Caudals**](https://caudals.com), an AI data startup,
 
 ### Caudals
 
-**Co-Founder & CTO** of [Caudals](https://caudals.com), an AI data startup building a more credible supply layer for ML-ready datasets. The work combines **data operations, platform design, quality workflows, compliance-aware dataset handling, and product architecture**.
+> **Co-Founder & CTO** of [Caudals](https://caudals.com), an AI data startup building a more credible supply layer for ML-ready datasets. The work combines **data operations, platform design, quality workflows, compliance-aware dataset handling, and product architecture**.
+>
+> [Website](https://caudals.com) · [Case study](https://asandova-ui.github.io/projects/caudals-ai-data-marketplace/)
 
-- Website: [caudals.com](https://caudals.com)
-- Case study: [Portfolio entry](https://asandova-ui.github.io/projects/caudals-ai-data-marketplace/)
+---
 
 ### AI-Native Labeling & Dataset Evaluation System
 
-A frontier AI data-operations build focused on **automated labeling, confidence-based routing, selective human review, and dataset-level evaluation**. The goal is to compress the path from raw data to **training-ready datasets** and make AI data workflows more operationally scalable.
+> A frontier AI data-operations build focused on **automated labeling, confidence-based routing, selective human review, and dataset-level evaluation**. The goal is to compress the path from raw data to **training-ready datasets** and make AI data workflows more operationally scalable.
+>
+> [Case study](https://asandova-ui.github.io/projects/ai-native-labeling-dataset-evaluation-system/)
 
-- Case study: [Portfolio entry](https://asandova-ui.github.io/projects/ai-native-labeling-dataset-evaluation-system/)
+---
 
 ### TP2 Connected Vehicle IoT & Edge AI Lab
 
-A real connected-vehicle lab combining **LTE networking, distributed control, perception workflows, Jetson-ready inference offload, and AI-ready data capture**. Strong example of systems integration across radio, compute, control, and edge AI infrastructure.
+> A real connected-vehicle lab combining **LTE networking, distributed control, perception workflows, Jetson-ready inference offload, and AI-ready data capture**. Strong example of systems integration across radio, compute, control, and edge AI infrastructure.
+>
+> [Repository](https://github.com/TallerProyectos2/TP2_red4G) · [Case study](https://asandova-ui.github.io/projects/tp2-connected-vehicle-iot-edge-ai-lab/)
 
-- Repository: [TallerProyectos2/TP2_red4G](https://github.com/TallerProyectos2/TP2_red4G)
-- Case study: [Portfolio entry](https://asandova-ui.github.io/projects/tp2-connected-vehicle-iot-edge-ai-lab/)
+---
 
 ### TP1 Modular FPGA, Sensor & LoRa Telemetry Platform
 
-An embedded systems project combining **custom PCB design, LarVA-based RISC-V / FPGA integration, sensor acquisition, GPS parsing, and LoRa telemetry**. Good example of multidisciplinary engineering across electronics, firmware, digital design, and communications-aware system architecture.
+> An embedded systems project combining **custom PCB design, LarVA-based RISC-V / FPGA integration, sensor acquisition, GPS parsing, and LoRa telemetry**. Good example of multidisciplinary engineering across electronics, firmware, digital design, and communications-aware system architecture.
+>
+> [Repository](https://github.com/asandova-ui/TP1) · [Case study](https://asandova-ui.github.io/projects/tp1-modular-fpga-sensor-lora-platform/)
 
-- Repository: [asandova-ui/TP1](https://github.com/asandova-ui/TP1)
-- Case study: [Portfolio entry](https://asandova-ui.github.io/projects/tp1-modular-fpga-sensor-lora-platform/)
+---
 
 ### SEPA Request-to-Pay Prototype
 
-My bachelor’s final project, awarded **highest honors (10/10)**. I designed and implemented an end-to-end **SEPA Request-to-Pay** prototype with a Flask backend, event-driven lifecycle, real-time notifications, and a live web UI to model the operational flow between payer, payee, and PSPs.
-
-- Repository: [SEPA_RequestToPay](https://github.com/asandova-ui/SEPA_RequestToPay)
-- Case study: [Portfolio entry](https://asandova-ui.github.io/projects/sepa-request-to-pay-bachelors-thesis/)
-- Thesis: [PDF](https://asandova-ui.github.io/pdfs/MemoriaTFG.pdf)
+> My bachelor’s final project, awarded **highest honors (10/10)**. I designed and implemented an end-to-end **SEPA Request-to-Pay** prototype with a Flask backend, event-driven lifecycle, real-time notifications, and a live web UI to model the operational flow between payer, payee, and PSPs.
+>
+> [Repository](https://github.com/asandova-ui/SEPA_RequestToPay) · [Case study](https://asandova-ui.github.io/projects/sepa-request-to-pay-bachelors-thesis/) · [Thesis PDF](https://asandova-ui.github.io/pdfs/MemoriaTFG.pdf)
 
 ## 42 Madrid Common Core
 
