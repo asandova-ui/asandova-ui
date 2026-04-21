@@ -10,7 +10,7 @@
 
 </div>
 
-I’m an **electrical engineer specialized in telecommunications** and an **AI engineer** with a strong interest in **startups, product building, and turning ambitious ideas into real systems**. My work sits across **backend engineering, applied AI, data systems, cloud deployment, IoT, and systems integration**, and I’ve always enjoyed building several demanding things in parallel, including completing the full **42 Madrid common core** alongside university and startup work. Right now I’m building **Caudals**, an AI data startup, and an **AI-native labeling and dataset evaluation system** designed to speed up the path from raw data to training-ready datasets.
+I’m an **electrical engineer specialized in telecommunications** and an **AI engineer** with a strong interest in **startups, product building, and turning ambitious ideas into real systems**. My work sits across **backend engineering, applied AI, data systems, cloud deployment, IoT, and systems integration**, and I’ve always enjoyed building several demanding things in parallel, including completing the full **42 Madrid common core** alongside university and startup work. Right now I’m building [**Caudals**](https://caudals.com), an AI data startup, and an **AI-native labeling and dataset evaluation system** designed to speed up the path from raw data to training-ready datasets.
 
 ## Technical Focus
 
