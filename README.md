@@ -42,6 +42,6 @@ Two years of C, Unix, networking and C++ alongside the degree, with no teachers 
 
 ---
 
-Before Caudals I spent two years at a payments fintech, where I led the AI side: models and data pipelines over transaction data, and the first LLM-based tools for the back office. The thesis on Request-to-Pay came out of that period.
+Before Caudals I spent two years at a payments fintech, where I led the AI work. The thesis on Request-to-Pay came out of that period.
 
 I write occasionally about payments, AI evaluation and what we are building: [alonsosandoval.com/blog](https://alonsosandoval.com/blog).
