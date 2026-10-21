@@ -11,19 +11,17 @@
 
 </div>
 
-Telecommunications engineer from the University of Valladolid, software from the 42 Madrid common core, finishing an MSc in telecommunications engineering in 2027. I build systems in C and C++, backends in Python, radio and embedded hardware, and the evaluation of LLM systems in production.
+Telecommunications engineer from the University of Valladolid, software from the 42 Madrid common core, finishing an MSc in telecommunications engineering in 2027. I work on AI systems for regulated sectors and on payment infrastructure: evaluation of LLM systems in production, SEPA schemes and instant payments, and the radio, embedded and systems engineering underneath.
 
 ---
 
 ## 🚀 Now · Caudals
 
-> Companies deploy assistants and agents on top of their own documentation and ship them after a demo that looked fine. **Caudals finds where they fail before customers do**: golden test sets written from the company's real documents and validated by people from the sector, run against the system, with evidence of what broke and why. Then we build the expert data that was missing.
+> **Evaluation of enterprise AI systems against golden test sets built from the company's own documentation and validated by domain experts.** Each test case carries the source passage, the expected answer and the reason it matters; a run yields failure modes, their root cause and the evidence, so engineering teams fix what actually breaks before an update reaches users. When the gaps are in the data, we produce the expert-validated datasets that close them.
 >
-> Winner of **Campus Emprendedor** and the **Santander X** round at the University of Valladolid · member of **NVIDIA Inception**.
+> Winner of **Campus Emprendedor** and the **Santander X** round at the University of Valladolid · **NVIDIA Inception** member.
 >
-> [caudals.com](https://caudals.com) · [Caudals/caudals](https://github.com/Caudals/caudals)
-
-Along the way we built our own prospecting agent on a DGX Spark with Hermes and a quantised DeepSeek, and learned the lesson we sell: getting an agent to run takes an afternoon; knowing whether to trust it takes evaluation. [That story →](https://alonsosandoval.com/blog/prospecting-agent)
+> [caudals.com](https://caudals.com) · [Caudals/caudals](https://github.com/Caudals/caudals) · [how we evaluated our own agent](https://alonsosandoval.com/blog/prospecting-agent)
 
 ---
 
