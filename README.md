@@ -68,7 +68,7 @@ Telecommunications engineer from the University of Valladolid, software from the
 
 ## ✍️ Writing
 
-Before Caudals I spent two years at a payments fintech, where I led the AI work; the thesis on Request-to-Pay came out of that period. I write occasionally about payments, AI evaluation and what we are building.
+Before Caudals I was at a payments fintech: R&D in payment systems first, then Head of AI; the thesis on Request-to-Pay came out of that period. I write occasionally about payments, AI evaluation and what we are building.
 
 - [We built a prospecting agent. The hard part was knowing if it worked](https://alonsosandoval.com/blog/prospecting-agent)
 - [Nobody finds their AI's failures in testing](https://alonsosandoval.com/blog/nobody-finds-the-failures-in-testing)
