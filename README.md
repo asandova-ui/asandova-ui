@@ -31,8 +31,6 @@ Telecommunications engineer from the University of Valladolid, software from the
 >
 > Specified from the rulebook step by step, measured against SEPA Direct Debit on its structural costs, and implemented as a service provider across the four corners, with rejects, expiry and cancellation.
 >
-> `EPC014-20` · `ISO 20022 pain.013 / pain.014` · `Flask` · `Socket.IO`
->
 > [Repository](https://github.com/asandova-ui/sepa-request-to-pay) · [Animated flow, step by rulebook step](https://alonsosandoval.com/rtp)
 
 ---
@@ -42,8 +40,6 @@ Telecommunications engineer from the University of Valladolid, software from the
 > A 4G core and an eNodeB on a bladeRF, built with srsRAN; a small car attached as user equipment; a traffic-sign detector trained on a dataset we built, served from a Jetson; every driving decision taken in the core, with lane assistance, an IMU-based speed loop and LiDAR safety on top.
 >
 > Then the same service planned for the 104 km of the A-601: traffic forecast from the Ministry's counting stations, radio planning in Xirio with 25 sites, cost and licensing. With Mario Medrano and Luis F. Sánchez.
->
-> `srsRAN 4G` · `bladeRF` · `YOLO` · `Jetson Orin Nano` · `Xirio`
 >
 > [Repository](https://github.com/asandova-ui/connected-vehicle-private-lte) · [Project site, with the demo](https://asandova-ui.github.io/connected-vehicle-private-lte/)
 
